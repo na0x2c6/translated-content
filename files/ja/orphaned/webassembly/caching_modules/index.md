@@ -1,6 +1,6 @@
 ---
 title: コンパイルされた WebAssembly モジュールをキャッシュする
-slug: WebAssembly/Caching_modules
+slug: orphaned/WebAssembly/Caching_modules
 tags:
   - Caching
   - IndexedDB
@@ -10,7 +10,9 @@ tags:
   - compile
   - wasm
 translation_of: WebAssembly/Caching_modules
+original_slug: WebAssembly/Caching_modules
 ---
+
 {{WebAssemblySidebar}}
 
 > **Warning:** **警告**: 実験的な {{jsxref("WebAssembly.Module")}} IndexedDB のシリアル化サポートがブラウザから削除されています。{{bug("1469395")}} と[この仕様の問題](https://github.com/WebAssembly/spec/issues/821)を参照してください。
